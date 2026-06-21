@@ -1,6 +1,3 @@
-# Charity Deel
-## Computer Science ePortfolio 
-
 ## Bachelor of Science in Computer Science
 Southern New Hampshire University
 
